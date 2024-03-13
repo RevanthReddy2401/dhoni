@@ -1,0 +1,64 @@
+
+.bio{
+    background-color:rgb(254, 200, 4);
+    width:280px;
+    height:100px;
+    display:block;
+    padding-left: 40px;
+    padding-top: 15px;
+}
+.name{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-weight: 650;
+    padding-bottom:5px;
+}
+.uyear{
+    font-size: 19px;
+    font-family:'Times New Roman', Times, serif
+}
+.container{
+    display:flex;
+}
+.image1{
+    height: 100px;
+    display:block;
+}
+p, h1{
+    font-family: serif;
+    font:18px;
+}
+
+figcaption{
+    font-size: 21px;
+    text-align: center;
+
+
+}
+figure{
+    display: inline-block;
+    
+}
+.ipl{
+    width:400px;
+    height:250px;
+
+}
+table{
+    width:400px;
+    height:100px;
+    box-sizing: border-box;
+}
+td{
+    text-align:center;
+}
+table, td{
+    border:2px solid black;
+    border-collapse:collapse;
+
+}
+h1{
+    text-align: center;
+    padding-bottom: 20px;
+}
+
